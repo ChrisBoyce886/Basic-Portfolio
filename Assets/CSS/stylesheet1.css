@@ -62,7 +62,7 @@ a.about:hover, a.portfolio:hover, a.contact:hover {
     width: 1436px;
     height: 501px;
     margin: 0;
-    background-image: url("concrete_seamless.png"); /*Update folder placement*/
+    background-image: url("Assets/Images/concrete_seamless.png"); /*Update folder placement*/
     padding: 50px;
     border-top: 1px solid #cccccc;
     clear: both;
